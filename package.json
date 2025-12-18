@@ -9,12 +9,17 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "next": "16.0.10",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "vega": "^6.2.0",
+    "vega-embed": "^7.1.0",
+    "vega-lite": "^6.4.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/lodash": "^4.17.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
